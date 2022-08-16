@@ -1,10 +1,8 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I'm an independent security researcher from Malaysia with interest in x86 reverse engineering, low-level vulnerability research, fuzzing and exploit development. I presented my research / work at security conference locally (Malaysia) and international. You can find my related work at SpeakerDeck, [https://speakerdeck.com/nafiez](https://speakerdeck.com/nafiez). 
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
-
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+I got acknowledge by vendors such Microsoft, Siemens, Adobe, etc. and all of these related to my personal research. 
