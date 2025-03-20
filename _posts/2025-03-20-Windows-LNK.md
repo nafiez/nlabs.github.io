@@ -35,6 +35,7 @@ So technically, on all of these blog posts, the main highlight here is the `Targ
 
 # Crafting Proof-of-Concept
 We knew that Whitespace characters is one of the main payload to do evasions, bypass, regardless on software application or at Web-based. 
+```
 | Code | Hex | Name                |
 | ---- | --- | ------------------- |
 | 9    | 09  | Horizontal Tab      |
@@ -43,7 +44,7 @@ We knew that Whitespace characters is one of the main payload to do evasions, by
 | 12   | 0C  | Form Feed           |
 | 13   | 0D  | Carriage Return     |
 | 32   | 20  | Space               |
-
+```
 Microsoft has documented Shell Link (.LNK) binary file format in their portal and its pretty easy to follow their guidelines to craft a proof-of-concept. Shell Link binary file format consists of several structures:
 
 ![2](https://raw.githubusercontent.com/nafiez/nlabs.github.io/master/images/p2.png)
