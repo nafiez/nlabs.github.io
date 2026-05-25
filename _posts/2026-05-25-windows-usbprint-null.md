@@ -442,6 +442,7 @@ ffffb888`ca795a70   nt!KiSystemServiceCopyEnd+0x25
 
 1. The vulnerability reported to MSRC on April 28, 2026.
 2. MSRC updated the ticket saying no fix for this issue and mark as closed. MSRC replied:
+
 ```
 Hi,
 
@@ -454,4 +455,3 @@ please don’t hesitate to reach out.
 Best,
 MSRC
 ```
-3. Public disclosure.
